@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/nutriswap/nutriswap-sdk-core.git",
+  "repository": "https://github.com/Nutriswap/nutriswap-sdk-core.git",
   "keywords": [
     "nutriswap",
     "ethereum"
@@ -42,3 +42,4 @@
     "singleQuote": true
   }
 }
+
