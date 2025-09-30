@@ -17,7 +17,7 @@ export declare const UNISWAP_NFT_AIRDROP_CLAIM_ADDRESS = "0x8B799381ac40b838BBA4
 /**
  * @deprecated use V2_FACTORY_ADDRESSES instead
  */
-export declare const V2_FACTORY_ADDRESS = "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f";
+export declare const V2_FACTORY_ADDRESS = "0x427742225f5aa4ef384e7C6f779cE0d6F7DAECE7";
 export declare const V2_FACTORY_ADDRESSES: AddressMap;
 /**
  * @deprecated use V2_ROUTER_ADDRESSES instead
@@ -51,3 +51,4 @@ export declare const TICK_LENS_ADDRESSES: AddressMap;
 export declare const MIXED_ROUTE_QUOTER_V1_ADDRESSES: AddressMap;
 export declare const SWAP_ROUTER_02_ADDRESSES: (chainId: number) => string;
 export {};
+
