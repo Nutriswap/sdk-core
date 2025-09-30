@@ -32,7 +32,7 @@ export const UNISWAP_NFT_AIRDROP_CLAIM_ADDRESS = '0x8B799381ac40b838BBA4131ffB26
 /**
  * @deprecated use V2_FACTORY_ADDRESSES instead
  */
-export const V2_FACTORY_ADDRESS = '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f'
+export const V2_FACTORY_ADDRESS = '0x427742225f5aa4ef384e7C6f779cE0d6F7DAECE7'
 export const V2_FACTORY_ADDRESSES: AddressMap = {
   [ChainId.MAINNET]: '0x427742225f5aa4ef384e7C6f779cE0d6F7DAECE7',
   [ChainId.ARBITRUM_ONE]: '0x427742225f5aa4ef384e7C6f779cE0d6F7DAECE7',
@@ -185,3 +185,4 @@ export const SWAP_ROUTER_02_ADDRESSES = (chainId: number) => {
   }
   return ''
 }
+
